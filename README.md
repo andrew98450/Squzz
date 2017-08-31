@@ -1,6 +1,6 @@
 # Squzz
 
-Evil Access Point Wifi on Raspberry Pi 3 
+Evil Access Point Wifi on Raspberry Pi 3 using Parrot OS
 
 This is Attack Device script with AP
 
