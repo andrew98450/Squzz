@@ -12,3 +12,5 @@ Evil Access Point Wifi on Raspberry Pi 3
 
 [*] HTTP request of EXE file injection shellcode
 
+[*] Logger HTTP request
+
